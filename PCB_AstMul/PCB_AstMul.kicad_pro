@@ -241,7 +241,9 @@
   },
   "boards": [],
   "cvpcb": {
-    "equivalence_files": []
+    "equivalence_files": [
+      "${KIPRJMOD}/symbol-footprint.equ"
+    ]
   },
   "erc": {
     "erc_exclusions": [],
