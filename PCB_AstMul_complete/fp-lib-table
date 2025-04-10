@@ -1,4 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "CH25-2032LF")(type "KiCad")(uri "${KIPRJMOD}/CH25-2032LF")(options "")(descr ""))
-)
