@@ -31,10 +31,9 @@
 > 新歓対応をする26代へ
 > - ZIPファイルをダウンロードし展開させます．
 > - 回路図エディターを開き，配置と配線をさせます．（フットプリントの割り当ては完了しています）
-> - 配線が完了したら，PCBエディターで基板設計をさせます．（外形は70mmx35mmくらい）
+> - 配線が完了したら，PCBエディターで基板設計をさせます．（70mmx35mmの外形を設定してあります）
 
-<img src="images/SCH_Astable_Multivibrator.png" height="500px">
-<img src="images/PCB_Astable_Multivibrator.png" height="500px">
+<img src="images/SCH_Astable_Multivibrator.png" height="500px"><img src="images/PCB_Astable_Multivibrator.png" height="500px">
 
 ### Lチカ基盤のはんだ付け
 実際に動く装置を作るにはプリント基板に部品をつけなくてはなりません．
