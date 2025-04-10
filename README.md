@@ -28,10 +28,13 @@
 発注するためにはプリント基板のデータを作成する必要があります．
 そこで使用するのが「[Kicad](https://www.kicad.org/download/)」です．
 実際にダウンロードして使ってみましょう！
+
 > 新歓対応をする26代へ
-> - ZIPファイルをダウンロードし展開させます．
+> - GitHubからZIPファイルをダウンロードし展開させます．
 > - 回路図エディターを開き，配置と配線をさせます．（フットプリントの割り当ては完了しています）
 > - 配線が完了したら，PCBエディターで基板設計をさせます．（70mmx35mmの外形を設定してあります）
+> - 実際の基盤を渡してあげるとイメージしやすいかもしれません．
+
 
 <img src="images/SCH_Astable_Multivibrator.png" height="500px"><img src="images/PCB_Astable_Multivibrator.png" height="500px">
 
