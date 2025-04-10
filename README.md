@@ -35,7 +35,7 @@
 > - 配線が完了したら，PCBエディターで基板設計をさせます．（70mmx35mmの外形を設定してあります）
 > - 実際の基盤を渡してあげるとイメージしやすいかもしれません．
 
-<img src="images/SCH_Astable_Multivibrator.png" style="height:400px;"><img src="images/PCB_Astable_Multivibrator.png" style="height:400px;">
+<img src="images/SCH_Astable_Multivibrator.png" style="height:300px;"><img src="images/PCB_Astable_Multivibrator.png" style="height:300px;">
 
 ### Lチカ基盤のはんだ付け
 実際に動く装置を作るにはプリント基板に部品をつけなくてはなりません．
