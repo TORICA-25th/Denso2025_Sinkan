@@ -17,7 +17,7 @@
 その際，C言語（正確にはC++も含む）と呼ばれるプログラミング言語を使用します．
 今後使えるようになるために，[AtCorder](https://atcoder.jp/contests/apg4b)という競技プログラミングサイトで練習をしましょう！
 
-### [鳥科電装勉強](https://geode-kicker-e37.notion.site/f4303f1da5d94d21af8da94cfff05153)
+### [鳥科電装勉強](https://telling-march-c0b.notion.site/eec54b93f49a4a67be70710ee509c069)
 作成したプログラムはマイコンと呼ばれるものに書き込むことができます．
 マイコンによって，プログラムした動作を実現することができます．
 [こちら](https://geode-kicker-e37.notion.site/f4303f1da5d94d21af8da94cfff05153)は電装班の先輩方が作ってくださったマイコンの基礎を学べるサイトです．
