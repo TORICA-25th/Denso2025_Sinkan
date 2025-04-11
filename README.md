@@ -20,8 +20,8 @@
 ### [鳥科電装勉強](https://telling-march-c0b.notion.site/eec54b93f49a4a67be70710ee509c069)
 作成したプログラムはマイコンと呼ばれるものに書き込むことができます．
 マイコンによって，プログラムした動作を実現することができます．
-[こちら](https://geode-kicker-e37.notion.site/f4303f1da5d94d21af8da94cfff05153)は電装班の先輩方が作ってくださったマイコンの基礎を学べるサイトです．
-「[実践編！](https://geode-kicker-e37.notion.site/189f665803ce800d9317dc6c7190da4c)」などを参考に実際にマイコンを動かしてみましょう！
+[こちら](https://telling-march-c0b.notion.site/eec54b93f49a4a67be70710ee509c069)は電装班の先輩方が作ってくださったマイコンの基礎を学べるサイトです．
+「[実践編！](https://telling-march-c0b.notion.site/7874e2cedf9c4ff7b75fd1fb712b05d0)」などを参考に実際にマイコンを動かしてみましょう！
 
 ### Lチカ基盤のPCB作成
 電装班では，マイコンなどを搭載するプリント基盤を外部の業者に発注しています．
