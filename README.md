@@ -22,10 +22,14 @@
 マイコンによって，プログラムした動作を実現することができます．
 [こちら](https://telling-march-c0b.notion.site/eec54b93f49a4a67be70710ee509c069)は電装班の先輩方が作ってくださったマイコンの基礎を学べるサイトです．
 「[実践編！](https://telling-march-c0b.notion.site/7874e2cedf9c4ff7b75fd1fb712b05d0)」などを参考に実際にマイコンを動かしてみましょう！
+
+参考ページは以下
 - [Arduino環境でRaspberry Pi Picoを使う｜たまねぎブログ](https://tamanegi-digick.com/it/rpipico/)
 - [ArduinoIDE Download](https://www.arduino.cc/en/software/)
-- 追加のボードマネージャーのURL`https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json`
-- 
+- 追加のボードマネージャーのURL  
+  ```
+  https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json
+  ```
 
 ### Lチカ基盤のPCB作成
 電装班では，マイコンなどを搭載するプリント基盤を外部の業者に発注しています．
