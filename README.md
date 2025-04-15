@@ -24,8 +24,7 @@
 「[実践編！](https://telling-march-c0b.notion.site/7874e2cedf9c4ff7b75fd1fb712b05d0)」などを参考に実際にマイコンを動かしてみましょう！
 
 参考ページは以下
-- [Arduino環境でRaspberry Pi Picoを使う｜たまねぎブログ](https://tamanegi-digick.com/it/rpipico/)
-- [ArduinoIDE Download](https://www.arduino.cc/en/software/)
+https://logikara.blog/raspi-pico-arduinoide/
 - 追加のボードマネージャーのURL  
   ```
   https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json
