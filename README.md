@@ -27,7 +27,7 @@
 - [ラズパイPico/Pico2/PicoWのArduinoIDE2のインストール方法や使い方紹介｜ロジカラブログ](https://logikara.blog/raspi-pico-arduinoide/)
 - [Download Arduino IDE](https://www.arduino.cc/en/software/)
 
-<<img src="images/download_arduino_ide.png" width=600px>
+<img src="images/download_arduino_ide.png" width=600px>
 
 - 追加のボードマネージャーのURL  
   ```
