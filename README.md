@@ -30,7 +30,7 @@ https://logikara.blog/raspi-pico-arduinoide/
   https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json
   ```
 
-<img src="images/pico_pin_assign.jpeg" width=600px>
+<img src="images/pico_pin_assign.jpg" width=600px>
 
 ### Lチカ基盤のPCB作成
 電装班では，マイコンなどを搭載するプリント基盤を外部の業者に発注しています．
