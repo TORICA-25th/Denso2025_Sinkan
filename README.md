@@ -24,7 +24,11 @@
 「[実践編！](https://telling-march-c0b.notion.site/7874e2cedf9c4ff7b75fd1fb712b05d0)」などを参考に実際にマイコンを動かしてみましょう！
 
 参考ページは以下
-https://logikara.blog/raspi-pico-arduinoide/
+- [ラズパイPico/Pico2/PicoWのArduinoIDE2のインストール方法や使い方紹介｜ロジカラブログ](https://logikara.blog/raspi-pico-arduinoide/)
+- [Download Arduino IDE](https://www.arduino.cc/en/software/)
+
+<<img src="images/download_arduino_ide.png" width=600px>
+
 - 追加のボードマネージャーのURL  
   ```
   https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json
