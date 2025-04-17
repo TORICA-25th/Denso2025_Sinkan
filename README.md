@@ -25,8 +25,8 @@
 
 参考ページは以下
 - [ラズパイPico/Pico2/PicoWのArduinoIDE2のインストール方法や使い方紹介｜ロジカラブログ](https://logikara.blog/raspi-pico-arduinoide/)
-- [Download Arduino IDE](https://www.arduino.cc/en/software/)
 - [Arduino日本語リファレンス｜株式会社武蔵野電波](http://www.musashinodenpa.com/arduino/ref/)
+- [Download Arduino IDE](https://www.arduino.cc/en/software/)
 
 <img src="images/download_arduino_ide.png" width=600px>
 
