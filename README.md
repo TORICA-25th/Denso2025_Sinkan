@@ -17,11 +17,11 @@
 その際，C言語（正確にはC++も含む）と呼ばれるプログラミング言語を使用します．
 今後使えるようになるために，[AtCorder](https://atcoder.jp/contests/apg4b)という競技プログラミングサイトで練習をしましょう！
 
-### [鳥科電装勉強](https://telling-march-c0b.notion.site/eec54b93f49a4a67be70710ee509c069)
+### [鳥科電装勉強](https://geode-kicker-e37.notion.site/f4303f1da5d94d21af8da94cfff05153)
 作成したプログラムはマイコンと呼ばれるものに書き込むことができます．
 マイコンによって，プログラムした動作を実現することができます．
-[こちら](https://telling-march-c0b.notion.site/eec54b93f49a4a67be70710ee509c069)は電装班の先輩方が作ってくださったマイコンの基礎を学べるサイトです．
-「[実践編！](https://telling-march-c0b.notion.site/7874e2cedf9c4ff7b75fd1fb712b05d0)」などを参考に実際にマイコンを動かしてみましょう！
+[こちら](https://geode-kicker-e37.notion.site/f4303f1da5d94d21af8da94cfff05153)は電装班の先輩方が作ってくださったマイコンの基礎を学べるサイトです．
+「[実践編！](https://geode-kicker-e37.notion.site/1d0f665803ce807fb891f5df901ba133)」などを参考に実際にマイコンを動かしてみましょう！
 
 参考ページは以下
 - [ラズパイPico/Pico2/PicoWのArduinoIDE2のインストール方法や使い方紹介｜ロジカラブログ](https://logikara.blog/raspi-pico-arduinoide/)
